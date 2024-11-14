@@ -118,4 +118,10 @@ Sprint 计划会议和Sprint Backlog
 ![image](https://github.com/user-attachments/assets/6fa55c28-71f4-4d8e-bd87-dd8d3b5148a6)
 
 
+![image](https://github.com/user-attachments/assets/c9ccff6a-e9b6-418f-87a2-ae67829eb4d9)
+
+(from：[intercom：rice-simple-prioritization-for-product-managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers))
+
+
+
 
