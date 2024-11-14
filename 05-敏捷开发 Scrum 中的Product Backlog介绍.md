@@ -123,5 +123,7 @@ Sprint 计划会议和Sprint Backlog
 (from：[intercom：rice-simple-prioritization-for-product-managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers))
 
 
+![image](https://github.com/user-attachments/assets/1ec9d571-7072-4855-be57-fd0e51d71659)
 
+(from：[intercom：rice-simple-prioritization-for-product-managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers))
 
