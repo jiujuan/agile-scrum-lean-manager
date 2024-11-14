@@ -113,6 +113,9 @@ Sprint 计划会议和Sprint Backlog
 
 ![image](https://github.com/user-attachments/assets/2a45b98a-2491-4f2f-a24c-12e25dce3d0d)
 
-![image](https://github.com/user-attachments/assets/2db23135-6e0e-4e33-b7fe-b84edc336ad5)
+
+
+![image](https://github.com/user-attachments/assets/6fa55c28-71f4-4d8e-bd87-dd8d3b5148a6)
+
 
 
