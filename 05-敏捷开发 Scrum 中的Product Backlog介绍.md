@@ -40,6 +40,11 @@
 产品待办列表（Product Backlog）是由产品负责人（Product Owner）负责管理的。
 随着产品功能不断开发，用户持续反馈，市场不断变化，获取的知识增多，涌现新的想法，待办列表里的工作项会不断进行改变和调整。待开发项（item）是随用户、市场不断变化、持续演进的。
 
+![image](https://github.com/user-attachments/assets/66faf904-4cf2-4169-bb15-6b5222da478d)
+
+（from：https://www.visual-paradigm.com/cn/scrum/what-is-product-backlog-in-scrum/1000）
+
+
 那怎么管理变化，把这种变化反映到开发项中呢？那哪些又是不变的呢?
 
 **产品愿景**。这是不变的，它将作为指导产品待办列表中工作项的创建、移除、修改。
@@ -49,10 +54,10 @@
 **梳理会议** 的一些关键活动：
 
 > - 1、梳理产品愿景。
-> - 2、创建、调整产品待办列表项。
+> - 2、创建、移除、调整产品待办列表项。
 > - 3、拆分大的待办项，比如 Epic（史诗）。产出合适大小的用户故事。
 > - 4、澄清待办项。
-> - 5、优先级排序。
+> - 5、排列、修改优先级排序。
 > - 6、利益相关者的沟通。
 > - 7、产品阶段性目标。
 > - 8、待办项的估算。
@@ -235,3 +240,4 @@ MoSCoW 模型是一种需求优先级管理模型。
 ## 参考资料
 
 - https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers RICE 框架
+- https://www.visual-paradigm.com/cn/scrum/what-is-product-backlog-in-scrum/1000
