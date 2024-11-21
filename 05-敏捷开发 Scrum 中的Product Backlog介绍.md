@@ -1,5 +1,3 @@
-
-
 ## Product Backlog 产品待办列表
 
 在计划开发产品功能时，都希望产品功能上线后，用户能够喜欢并经常使用。
@@ -19,6 +17,15 @@
 比如：bug缺陷修复、基础技术任务、比较大的用户故事（Epic）、代码改进、架构优化、功能优化等等。
 
 ![image](https://github.com/user-attachments/assets/593c5b12-9842-44aa-a13c-dd44fa08eb89)
+
+## 产品待办项的需求来源
+
+![image](https://github.com/user-attachments/assets/899e6a6c-1464-4048-b7f2-82457a1dda04)
+
+需求主要来源：
+
+客户调研、反馈，用户调研、反馈，市场调研，公司高层，数据分析，产品经理，Scrum 团队成员等。
+
 
 ## 产品待办列表特点
 
