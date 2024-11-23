@@ -4,7 +4,7 @@
 
 Scrum 是敏捷开发方法之一，它使用比较广泛。
 
-敏捷的其它开发方法还有 XP(极限编程)、FDD(特性驱动开发)、Crystal(水晶方法)、TDD(测试驱动开发)、DSDM(动态系统开发)、Kanban(看板)、精益开发等等敏捷方法。
+敏捷的其它开发方法还有 XP(极限编程)、FDD(特性驱动开发)、Crystal(水晶方法)、TDD(测试驱动开发)、DSDM(动态系统开发)等等敏捷方法。
 
 
 
@@ -25,13 +25,6 @@ Scrum 是敏捷开发方法之一，它使用比较广泛。
 Scrum-Guide 里还说：
 
 Scrum 框架故意不完整，仅仅定义了实施 Scrum 理论所需的部分。在 Scrum 中，可以使用各种不同的过程、技术和方法。
-
-### 相对传统开发瀑布不同
-
-- 迭代开发
-- 增量交付
-- 自组织团队
-- 优先级形式的需求驱动开发
 
 ## 二、Scrum 迭代开发过程
 
@@ -95,7 +88,7 @@ Scrum 是一个自组织、跨职能的完整团队。自组织团队自己决�
 2. Scrum Master 
 3. Scrum Team 开发团队
 
-
+![image](https://img2024.cnblogs.com/blog/650581/202411/650581-20241119154208069-1738697098.png)
 
 1.产品负责人 Product Owner：
 
@@ -121,6 +114,7 @@ Scrum 是一个自组织、跨职能的完整团队。自组织团队自己决�
 2. Sprint Backlog 
 3. Increment
 
+![image](https://img2024.cnblogs.com/blog/650581/202411/650581-20241119161830823-1992524026.png)
 
 
 1.Product Backlog：
@@ -155,6 +149,7 @@ Sprint 的进度：可以用 Sprint Brun-down Chart 来统计剩余的工作量�
 
 5.Sprint 回顾会议
 
+![image](https://img2024.cnblogs.com/blog/650581/202411/650581-20241119163339049-1551753349.png)
 
 
 **1.Sprint**
@@ -216,6 +211,23 @@ Sprint 回顾会议的目的：
 ![image-20220528015822331](https://img2022.cnblogs.com/blog/650581/202205/650581-20220528023155604-2008578296.png)
 
 （https://www.neonrain.com/agile-scrum-web-development/）
+
+- 1、产品负责人（Product Owner）把产品开发相关人员召集在一起，共同制定产品愿景、产品目标，规划产品路线图等，收集产品的功能特性和非功能特性（比如小的用户故事、Epic（大的用户故事）、基础技术任务、功能优化等等）。
+
+- 2、Product Backlog，把上面收集到的功能特性和非功能特性放到 Product Backlog（产品待办列表）中，并进行优先级排序。定期召开会议梳理 Product Backlog 中的开发项。
+
+- 3、Sprint Planning Meeting（冲刺计划会议），从上面的 Product Backlog 中挑选出开发项，形成一个开发目标（Sprint Goal），把开发项组成一个 Sprint Backlog。然后对这个 Sprint Backlog 进行细化拆分，形成更小的开发 task，并估算开发时间，通常以小时或天为单位来计算开发时间。开发团队开始进行小任务的开发。
+
+- 4、每一个 Sprint Backlog 迭代周期是 1 到 4 个星期。
+
+- 5、在一个 Sprint Backlog 的迭代周期中，每天要进行 Daily Scrum Meeting（每日站会），每次会议时间控制在 15 分钟。
+
+- 6、开发任务的完成进度可以用 Burn down/up Charts（燃尽图）来表示。
+
+- 7、当一个 Sprint Backlog 完成，也就是一次冲刺任务完成时，进行 Sprint Review（评审会议），向利益相关人员演示此次完成的工作成果，并验收成果。
+
+- 8、最后 Sprint Retrospective ，总结回顾会议，每个成员进行发言，总结经验和教训，哪些地方完成的比较好，哪些地方还需要改进，并在下一轮 Sprint 迭代中进行改进。
+
 
 ## 四、实施 Scrum 会遇到的问题
 
