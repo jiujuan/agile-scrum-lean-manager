@@ -69,4 +69,7 @@ Sprint Planning （冲刺计划会议），又叫规划会议。此会议通过 
 
 ![image](https://github.com/user-attachments/assets/b2409676-1ad0-4f7a-907c-e3a7b7e70a84)
 
+![image](https://github.com/user-attachments/assets/e6dd1bc3-c168-48e1-ac3b-eb4aeeb1dd37)
+
+
 
