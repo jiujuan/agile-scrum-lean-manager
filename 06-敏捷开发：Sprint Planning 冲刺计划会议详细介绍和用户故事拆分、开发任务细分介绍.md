@@ -161,7 +161,7 @@ Dev Team 负责人负责维护 Sprint 开发任务清单，由开发需求或用
 
 一般我们会用在线敏捷软件来管理开发任务。
 
-任务清单目模板如下：
+任务清单模板如下：
 
 ![image](https://github.com/user-attachments/assets/f3c41121-bf8f-463e-9eca-a824befc4d10)
 
