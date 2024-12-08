@@ -253,6 +253,7 @@ MoSCoW 模型是一种需求优先级管理模型。
 
 ![image](https://github.com/user-attachments/assets/dc5a4016-853c-47f1-b9c9-f9f0261b68e2)
 
+> 这只是一个示例模板，里面的每一格标题（如商业价值、实现难度等等）可以根据自家需求情况进行增加、删除和调整。
 
 ## 参考资料
 
