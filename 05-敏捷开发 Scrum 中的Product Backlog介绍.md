@@ -244,6 +244,16 @@ MoSCoW 模型是一种需求优先级管理模型。
 
 - **W（Won’t Have）**：不需要的功能，回报率很低，不会列入当前开发计划中。代表**最低优先级**。
 
+## 产品Backlog需求清单模板
+
+产品负责人维护管理的一个已排序，已估算，有用户或商业价值度量的一个需求清单列表。每次开会时可对这个列表进行增加、调整列表里的需求。
+
+可用Excel表格记录，也可以用其他工具记录。
+清单模板如下图：
+
+![image](https://github.com/user-attachments/assets/dc5a4016-853c-47f1-b9c9-f9f0261b68e2)
+
+
 ## 参考资料
 
 - https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers RICE 框架
