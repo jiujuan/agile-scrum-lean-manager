@@ -1,6 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/42a1b4a4-eafc-48f7-b610-faf323329710)
-
+![image](https://github.com/user-attachments/assets/9d0f5892-4ad2-474e-9fbe-f645c8c73ced)
 
 
 08-敏捷开发：敏捷项目管理可视化-kanban看板使用介绍.md
