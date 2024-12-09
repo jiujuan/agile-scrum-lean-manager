@@ -228,6 +228,10 @@ Sprint 回顾会议的目的：
 
 - 8、最后 Sprint Retrospective ，总结回顾会议，每个成员进行发言，总结经验和教训，哪些地方完成的比较好，哪些地方还需要改进，并在下一轮 Sprint 迭代中进行改进。
 
+**再来个简洁的整体流程图**
+
+![image](https://github.com/user-attachments/assets/c1c40f18-304c-40c6-810b-106728d91005)
+
 
 ## 四、实施 Scrum 会遇到的问题
 
