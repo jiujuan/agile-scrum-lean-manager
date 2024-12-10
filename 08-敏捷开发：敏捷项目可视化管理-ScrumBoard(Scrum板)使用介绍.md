@@ -76,3 +76,26 @@ Sprint 1 冲刺开始：
 ![image](https://github.com/user-attachments/assets/f41f9c2c-3e2c-4ea0-aa68-2946289cbe2f)
 （JIRA 的 Sprint 冲刺流程图）
 
+## ScrumBoard的优缺点
+
+**Scrum板的优点**
+
+- 提高了透明度和工作流程进度的可见度
+
+- 促进了团队之间的沟通与协作
+
+- 有效的管理，改进工作流程
+
+**Scrum板的缺点**
+
+- 可能会使团队成员感受到不断受到监控的压力，从而影响工作效率
+
+- 对于依赖关系众多、工作流程错综复杂的大型复杂项目，简单的 Scrum 板可能不够用
+
+## 参考
+
+- https://www.atlassian.com/zh/software/jira/features/free-kanban-board jira 看板
+
+- https://www.atlassian.com/zh/software/jira/templates/scrum?tab=backlogs jira scrum 模板
+
+- 
